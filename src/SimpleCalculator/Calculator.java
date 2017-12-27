@@ -16,9 +16,9 @@ public class Calculator {
     	return SUB;
     }
     public double doMul(double num1, double num2){
-    	double mul = 0;
-        mul = num1 * num2;
-        return mul;
+    	double prod = 0;
+        prod = num1 * num2;
+        return prod;
     }
     public double doDiv(double num1, double num2) throws Exception{
         if(num2 == 0){
