@@ -1,7 +1,7 @@
 package SimpleCalculator;
 
 /**
- * Hello world!
+ * Hello world! this is a simple calculator java code
  *
  */
 
